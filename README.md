@@ -1,1 +1,1 @@
-# ParallelScatterSearch
+# Parallel Scatter Search
