@@ -1,0 +1,8 @@
+.idea
+*.iml
+*.class
+/out/
+.DS_Store
+maxCutInstances/.DS_Store
+src/grafo/.DS_Store
+src/grafo/profile/.DS_Store
