@@ -25,7 +25,7 @@ public class ExperimentsLauncher {
 
     final static String pathFolder = "pmp_instances";
 
-    final static String[] folderIndex = {"speedup"};
+    final static String[] folderIndex = {"hb"};
     final static String instanceIndex = ".mtx.rnd";
 
     static Constructive<PInstance, PSolution> c1;
