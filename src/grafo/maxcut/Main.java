@@ -71,7 +71,7 @@ public class Main {
         int month = cal.get(Calendar.MONTH) + 1;
         int year = cal.get(Calendar.YEAR);
         String date = String.format("%04d-%02d-%02d", year, month, day);
-        String outDir = "results/" + date + "/";
+        String outDir = "mcpResults/" + date + "/";
         experiment.launch(outDir, pathFolder, new String[]{".mc", ".rud", ".txt"});
     }
 }
